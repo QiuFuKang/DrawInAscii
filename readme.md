@@ -1,5 +1,5 @@
 ﻿# Ascii作图
-使用java实现Acill作图、骰子作图<br>
+使用java实现Ascii作图、骰子作图<br>
 使用方式`java Draw yourimage`<br><br><br>
 源图片:<br>
 ![enter image description here](https://raw.githubusercontent.com/QiuFuKang/DrawInAscii/master/DrawInAscii/sourceImage.jpg)<br><br><br>
